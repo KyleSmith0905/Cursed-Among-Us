@@ -1,3 +1,6 @@
+# Why Forked:
+I'm the lone programmer behind this mod, I want to add this to my personal repository for myself and others!
+
 [![Discord](https://img.shields.io/discord/845314615524851722.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/dccRRY8dcR)
 [![GitHub release](https://img.shields.io/github/release/Devs-Us/Cursed-Among-Us.svg)](https://GitHub.com/Devs-Us/Cursed-Among-Us/releases/)
 [![Github Downloads](https://img.shields.io/github/downloads/Devs-Us/Cursed-Among-Us/total.svg)](https://github.com/Devs-Us/Cursed-Among-Us/releases)
